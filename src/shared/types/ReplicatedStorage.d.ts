@@ -1,0 +1,1 @@
+interface ReplicatedStorage extends Instance {}

@@ -1,0 +1,1 @@
+interface ServerStorage extends Instance {}
